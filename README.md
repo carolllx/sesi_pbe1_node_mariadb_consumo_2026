@@ -67,4 +67,3 @@ As imagens dos testes estão disponíveis na pasta `docs`.
    `npm run dev`
 
 4. A API estará disponível em `http://localhost:3000`.
-# sesi_pbe1_node_mariadb_consumo_2026
